@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Document Q&A System (LangChain + FAISS)"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Yadav"
+    given-names: "Monika"
+version: "0.1.0"
+date-released: "2026-02-22"
+license: "MIT"
+repository-code: "https://github.com/monikayyy/Document-QA"
+abstract: "A local RAG baseline with FAISS indexing, citation-grounded answering, and confidence-based abstention."
